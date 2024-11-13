@@ -1,0 +1,3 @@
+C:/Users/N/Projects/CLearning/54/cmake-build-debug/CMakeFiles/54.dir
+C:/Users/N/Projects/CLearning/54/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/N/Projects/CLearning/54/cmake-build-debug/CMakeFiles/rebuild_cache.dir
